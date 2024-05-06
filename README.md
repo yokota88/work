@@ -1,25 +1,33 @@
-# Work and study list
+# Skill now
 
-language
+language:
 C++,MATLAB
 Typescript,Python,
 
-Framework
+Framework:
 Next.js,React.js,React native
 
-Cloud
+Cloud:
 AWS,Firebase,
 
-Others
+Others:
 Docker,Computer vision, 時系列処理
 
+# Portfolio
+
+Coming soon...
+
+# Work and study list
+
 ## Book
+
+Coming soon...
 
 ## Udemy
 
 ### Mobile App
 
-- [x] 【2023 年最新版】React Native 入門：ニュースアプリを作りながら覚えよう[ link ](https://www.udemy.com/course/react-native-first-step/)
+- [x] 【2023 年最新版】React Native 入門：ニュースアプリを作りながら覚えよう (1 回目 5/4 済) [ link ](https://www.udemy.com/course/react-native-first-step/)
 - [ ] 実践編：React Native と Firebase で作る iOS/Android アプリ：お店レビューアプリ開発編
       [ link ](https://www.udemy.com/course/react-native-firebase/?couponCode=JPLETSLEARNNOW)
 
@@ -82,3 +90,11 @@ Docker,Computer vision, 時系列処理
 
 - [ ]AWS で学ぶ！Docker コンテナ・CI/CD パイプライン入門
   [ link ](https://www.udemy.com/course/dockercicd/?couponCode=JPLETSLEARNNOW)
+
+### ChatGPT
+
+Coming soon...
+
+# Web article
+
+Coming soon...
