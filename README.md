@@ -29,7 +29,7 @@ Coming soon...
 
 - [x] 【2023 年最新版】React Native 入門：ニュースアプリを作りながら覚えよう
       [ link ](https://www.udemy.com/course/react-native-first-step/)
-      1 回目 5/4 済
+      1回目:5/4
 - [ ] 実践編：React Native と Firebase で作る iOS/Android アプリ：お店レビューアプリ開発編
       [ link ](https://www.udemy.com/course/react-native-firebase/?couponCode=JPLETSLEARNNOW)
 
@@ -40,7 +40,7 @@ Coming soon...
 
 - [x] 【2023 年最新版】【Redux 完全入門】絶対に理解させる Redux アルゴリズム徹底解説入門パック
       [ link ](https://www.udemy.com/course/react-native-first-step/)
-       (1 回目 5/19 済)
+       1回目:5/19
 
 - [ ] 【Tailwindcss3.0】利用者急増中！作って学ぶ爆速で理解したい人向けの Tailwindcss 完全入門パック
       [ link ](https://www.udemy.com/course/tailwindcss-for-beginner/?couponCode=JPLETSLEARNNOW)
